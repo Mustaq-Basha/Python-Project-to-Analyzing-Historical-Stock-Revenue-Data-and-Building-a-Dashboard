@@ -10,3 +10,5 @@ This project uses two different web pages to extract the stock data of 2 compani
 ## LINKS :
         1. https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/revenue.htm
         2. https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/stock.html
+##  
+To access the code open Final assament file from above and open in a Python IDE to run the program
